@@ -1,2 +1,2 @@
 🎨 Cartoon Effect on Image using OpenCV
-This project 
+This project demonstrates how 
